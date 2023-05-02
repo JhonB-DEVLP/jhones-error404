@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(236, 255, 206);
+}
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif, 'Arial Narrow', Arial, sans-serif, Helvetica, sans-serif, Geneva, Tahoma, sans-serif, Helvetica, sans-serif, sans-serif; /* define a fonte padrão para o corpo da página */
+    color: #333; /* define a cor padrão para o texto */
+  }
+  
+  h1 {
+    font-size: 25px; /* define o tamanho da fonte para o elemento h1 */
+    color: rgb(0, 4, 255); /* define a cor do texto para o elemento h1 */
+  }
+  
+  p {
+    font-size: 21px; /* define o tamanho da fonte para o elemento p */
+    color: #000000; /* define a cor do texto para o elemento p */
+  }
+  
+  a {
+    color: #00f; /* define a cor dos links */
+  }
+  
